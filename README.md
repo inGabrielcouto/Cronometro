@@ -1,0 +1,1 @@
+Aplicação que ajuda a marcar tempo , mais conhecido como cronometro , eu costumo usar para ter controle do tempo de eu estudo todos os dias :D

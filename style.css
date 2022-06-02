@@ -1,0 +1,32 @@
+body{
+background-image: linear-gradient(to bottom ,#3198e2 ,
+#6d59c0 , #b93590 , #E33F5F , #FDD579);
+background-attachment:fixed;
+}
+
+div{
+    text-align: center
+}
+
+button{
+    height: 2.5em;
+    width: 5.5em;
+    border: none;
+    color: rgb(131, 131, 131);
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start-btn{
+    background-color:rgb(87, 210, 231);
+}
+
+.pause-btn{
+    background-color:white;
+}
+
+.stop-btn{
+    background-color:black;
+}
